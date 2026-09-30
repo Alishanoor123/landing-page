@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+
+# Node (not used, but safe to include)
+node_modules/
